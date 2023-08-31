@@ -4,13 +4,15 @@ public class lrtMain {
     Scanner in=new Scanner(System.in);
     String stationArray[]={"Recto","Legarda","Pureza","V. Mapa","J. Ruiz","Gilmore","Betty Go","Cubao","Anonas","Katipunan","Santolan","Marikina","Antipolo"};
     int origin=0,destination=0;
-            
+
+    //prints the list of stations
     void stationList(){
         for(int x=0;x<13;x++){
             System.out.println("["+(x+1)+"] "+stationArray[x]);
         }
     }
     
+    //gets your origin and destination
     int[]  originANDdesintation(){
         int[] journey=new int[2];
 
@@ -27,6 +29,7 @@ public class lrtMain {
         return journey;
     }
     
+    //calculates your fare in philippine peso
     int fareCalc(int[] journey){
         int distance=(journey[1]-journey[0]);
         int realDistance=Math.abs(distance);
@@ -41,7 +44,7 @@ public class lrtMain {
         }
     }
     public static void main(String[] args) throws Exception {
-
+        //initiates the methods
         lrtMain method=new lrtMain();
         //stations list
         method.stationList();
