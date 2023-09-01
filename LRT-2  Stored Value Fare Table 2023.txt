@@ -1,0 +1,209 @@
+LR2 2023 FARE TABLE SINGLE JOURNEY
+
+RECTO COMBINATINOS
+Recto-Legarda, 15
+Recto-Pureza, 20
+Recto-V. Mapa, 20
+Recto-J. Ruiz, 20
+Recto-Gilmore, 25
+Recto-Betty Go, 25
+Recto-Cubao, 25
+Recto-Anonas, 25
+Recto-Katipunan, 30
+Recto-Santolan, 30
+Recto-Marikina, 35
+Recto-Antipolo, 35
+
+LEGARDA COMBINATIONS
+Legarda-Recto, 15
+Legarda-Pureza, 15
+Legarda-V. Mapa, 20
+Legarda-J. Ruiz, 20
+Legarda-Gilmore, 20
+Legarda-Betty Go, 25
+Legarda-Cubao, 25
+Legarda-Anonas, 25
+Legarda-Katipunan, 25
+Legarda-Santolan, 30
+Legarda-Marikina, 30
+Legarda-Antipolo, 35
+
+PUREZA COMBINATIONS
+Pureza-Recto, 20
+Pureza-Legarda, 15
+Pureza-V. Mapa, 15
+Pureza-J. Ruiz, 20
+Pureza-Gilmore, 20
+Pureza-Betty Go, 20
+Pureza-Cubao, 20
+Pureza-Anonas, 25
+Pureza-Katipunan, 25
+Pureza-Santolan, 30
+Pureza-Marikina, 30
+Pureza-Antipolo, 30
+
+V. MAPA COMBINATIONS
+V. Mapa-Recto, 20
+V. Mapa-Legarda, 20
+V. Mapa-Pureza, 15
+V. Mapa-J. Ruiz, 15
+V. Mapa-Gilmore, 20
+V. Mapa-Betty Go, 20
+V. Mapa-Cubao, 20
+V. Mapa-Anonas, 20
+V. Mapa-Katipunan, 25
+V. Mapa-Santolan, 25
+V. Mapa-Marikina, 30
+V. Mapa-Antipolo, 30
+
+J. RUIZ COMBINATIONS
+J. Ruiz-Recto, 20
+J. Ruiz-Legarda, 20
+J. Ruiz-Pureza, 20
+J. Ruiz-V. Mapa, 15
+J. Ruiz-Gilmore, 15
+J. Ruiz-Betty Go, 20
+J. Ruiz-Cubao, 20
+J. Ruiz-Anonas, 20
+J. Ruiz-Katipunan, 20
+J. Ruiz-Santolan, 25
+J. Ruiz-Marikina, 25
+J. Ruiz-Antipolo, 30
+
+GILMORE COMBINATIONS
+Gilmore-Recto, 25
+Gilmore-Legarda, 20
+Gilmore-Pureza, 20
+Gilmore-V. Mapa, 20
+Gilmore-J. Ruiz, 15
+Gilmore-Betty Go, 15
+Gilmore-Cubao, 20
+Gilmore-Anonas, 20
+Gilmore-Katipunan, 20
+Gilmore-Santolan, 25
+Gilmore-Marikina, 25
+Gilmore-Antipolo, 30
+
+BETTY GO COMBINATIONS
+Betty Go-Recto, 25
+Betty Go-Legarda, 25
+Betty Go-Pureza, 20
+Betty Go-V. Mapa, 20
+Betty Go-J. Ruiz, 20
+Betty Go-Gilmore, 15
+Betty Go-Cubao, 15
+Betty Go-Anonas, 20
+Betty Go-Katipunan, 20
+Betty Go-Santolan, 20
+Betty Go-Marikina, 25
+Betty Go-Antipolo, 25
+
+CUBAO COMBINATIONS
+Cubao-Recto, 25
+Cubao-Legarda, 25
+Cubao-Pureza, 20
+Cubao-V. Mapa, 20
+Cubao-J. Ruiz, 20
+Cubao-Gilmore, 20
+Cubao-Betty Go, 15
+Cubao-Anonas, 15
+Cubao-Katipunan, 20
+Cubao-Santolan, 20
+Cubao-Marikina, 25
+Cubao-Antipolo, 25
+
+ANONAS COMBINATIONS
+Anonas-Recto, 25
+Anonas-Legarda, 25
+Anonas-Pureza, 25
+Anonas-V. Mapa, 20
+Anonas-J. Ruiz, 20
+Anonas-Gilmore, 20
+Anonas-Betty Go, 20
+Anonas-Cubao, 15 
+Anonas-Katipunan, 15
+Anonas-Santolan, 20
+Anonas-Marikina, 20
+Anonas-Antipolo, 25
+
+KATIPUNAN COMBINATIONS
+Katipunan-Recto, 30
+Katipunan-Legarda, 25
+Katipunan-Pureza, 25
+Katipunan-V. Mapa, 25
+Katipunan-J. Ruiz, 20
+Katipunan-Gilmore, 20
+Katipunan-Betty Go, 20
+Katipunan-Cubao, 20
+Katipunan-Anonas, 15
+Katipunan-Santolan, 20
+Katipunan-Marikina, 20
+Katipunan-Antipolo, 25
+
+SANTOLAN COMBINATIONS
+Santolan-Recto, 30
+Santolan-Legarda, 30
+Santolan-Pureza, 30
+Santolan-V. Mapa, 25
+Santolan-J. Ruiz, 25
+Santolan-Gilmore, 25
+Santolan-Betty Go, 20
+Santolan-Cubao, 20
+Santolan-Anonas, 20
+Santolan-Katipunan, 20
+Santolan-Marikina, 15
+Santolan-Antipolo, 20
+
+MARIKINA COMBINATIONS
+Marikina-Recto, 35
+Marikina-Legarda, 30
+Marikina-Pureza, 30
+Marikina-V. Mapa, 30
+Marikina-J. Ruiz, 25
+Marikina-Gilmore, 25
+Marikina-Betty Go, 25
+Marikina-Cubao, 25
+Marikina-Anonas, 20
+Marikina-Katipunan, 20
+Marikina-Santolan, 15
+Santolan-Antipolo, 20
+
+ANTIPOLO COMBINATIONS
+Antipolo-Recto, 35
+Antipolo-Legarda, 35
+Antipolo-Pureza, 30
+Antipolo-V. Mapa, 30
+Antipolo-J. Ruiz, 30
+Antipolo-Gilmore, 30
+Antipolo-Betty Go, 25
+Antipolo-Cubao, 25
+Antipolo-Anonas, 25
+Antipolo-Katipunan, 25
+Antipolo-Santolan, 20
+Antipolo-Marikina, 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
