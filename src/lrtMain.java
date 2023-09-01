@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class lrtMain {    
+    
+    
+    
+    //OUTDATED PRICES
+
+
 
     Scanner in=new Scanner(System.in);
     String stationArray[]={"Recto","Legarda","Pureza","V. Mapa","J. Ruiz","Gilmore","Betty Go","Cubao","Anonas","Katipunan","Santolan","Marikina","Antipolo"};
