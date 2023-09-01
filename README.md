@@ -1,4 +1,6 @@
 ## A LRT2 fare calculator
+
+The fare prices are calculated in Philippine Peso.
 This is a pretty simple java program that I made for practice purposes.
 
 the source code is found in the src folder.
